@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BirdGame</string>
+    <string name="to_play">TO PLAY</string>
+    <string name="high_score">High score</string>
+</resources>
